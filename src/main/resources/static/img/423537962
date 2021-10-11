@@ -1,0 +1,212 @@
+<!DOCTYPE html><html lang=zh-CN><head><meta charset=utf-8><meta name=baidu-site-verification content=nATMvVnuas><meta content=yes name=apple-mobile-web-app-capable><meta content=black name=apple-mobile-web-app-status-bar-style><meta content="telephone=no" name=format-detection><meta http-equiv=X-UA-Compatible content="IE=edge"><meta http-equiv=x-dns-prefetch-control content=on><meta name=sogou_site_verification content=4SkQW9Ce0Y><meta name=baidu-site-verification content=beoRV9DGXv><meta name=keywords content=拍信，paixin，正版图片，商标注册，知识产权，视频素材，图片下载，拍信网，拍信知产，拍信图库><meta name=description content="拍信(PAIXIN.COM)是国内领先的创意内容素材平台，提
+      供正版图片、短视频、设计插画等素材下载，另外提供视频、名片、
+      公众号图片、PPT、邀请函等创意服务，用拍信提高运营工作效率，深受大家喜爱。"><title>拍信（PAIXIN.COM）- 中国领先的创意内容素材平台</title><link href=/static/favicon_1.ico type=image/x-icon rel=icon><link href=/static/favicon_1.ico type=image/x-icon rel="shortcut icon"><link rel=stylesheet href=/static/css/index__6.css><script>(function() {
+        if (self != top) {
+          top.location = location.href;
+        }
+      })();
+      setTimeout(function() {
+        if (!document.getElementById('init')) {
+          var cookies = document.cookie.split(';');
+              for (var i = 0; i < cookies.length; i++) {
+                  var cookie = cookies[i];
+                  var eqPos = cookie.indexOf('=');
+                  var name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie;
+                  document.cookie = name + '=;expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/';
+              }
+          if(cookies.length > 0)
+          {
+            for (var i = 0; i < cookies.length; i++) {
+              var cookie = cookies[i];
+              var eqPos = cookie.indexOf('=');
+              var name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie;
+              var domain = location.host.substr(location.host.indexOf('.'));
+              document.cookie = name + '=;expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/; domain=' + domain;
+            }
+          }
+          window.location.reload();
+        }
+      }, 6000);</script><script>(function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        (i[r] =
+          i[r] ||
+          function() {
+            (i[r].q = i[r].q || []).push(arguments);
+          }),
+          (i[r].l = 1 * new Date());
+        (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m);
+      })(
+        window,
+        document,
+        'script',
+        'https://www.google-analytics.com/analytics.js',
+        'ga'
+      );
+      window.ga('create', 'UA-125804362-1', 'auto');
+      window.ga('send', 'pageview');</script><script type=text/javascript src=/static/js/init_7.js></script><link rel=stylesheet href=/static/css/normalize.css><link rel=stylesheet href=/static/css/basscss.min.css><script type=text/javascript src=/static/js/jsencrypt.min.js></script><script type=text/javascript src=/static/js/base64.min.js></script><script type=text/javascript>(function() {
+        var _tag = document.createElement('script')
+        _tag.type = 'text/javascript'
+        _tag.async = true
+        _tag.charset = 'utf-8'
+        _tag.src = 'https://s9.cnzz.com/z_stat.php?id=1278691946&show=pic'
+        var tag_s = document.getElementsByTagName("script")[0];
+        tag_s.parentNode.insertBefore(_tag, tag_s)
+      })
+    // document.write(
+    //   unescape("%3Cspan style='display:none;' id='cnzz_stat_icon_1278691946'%3E%3C/span%3E%3Cscript  src='https://s9.cnzz.com/z_stat.php%3Fid%3D1278691946%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script><style>* {
+        margin: 0;
+        padding: 0;
+      }
+      a {
+        text-decoration: none;
+      }
+      body {
+        overflow-y: scroll !important;
+        overflow-x: hidden;
+      }
+      @media screen and (max-width: 1200px) {
+          body {
+              width: 1400px !important;
+          }
+      }
+      /* ======================================
+        
+                    l o a d i n g
+        
+           ====================================== */
+      #loading-mask {
+        position: relative;
+        line-height: 100vh;
+        width: 100%;
+        text-align: center;
+        transform: scaleY(0.87);
+        -webkit-transform: scaleY(0.87);
+        letter-spacing: 2px;
+        font-size: 2rem;
+        font-weight: 800;
+        color: rgba(0, 0, 0, 0.1);
+      }
+
+      #loading-mask span {
+        display: inline-block;
+        animation: scale 1.4s infinite ease-in-out;
+        -webkit-animation: scale 1.4s infinite ease-in-out;
+      }
+
+      #loading-mask span:nth-child(2) {
+        animation-delay: 0.1s;
+      }
+
+      #loading-mask span:nth-child(3) {
+        animation-delay: 0.2s;
+      }
+
+      #loading-mask span:nth-child(4) {
+        animation-delay: 0.3s;
+      }
+
+      #loading-mask span:nth-child(5) {
+        animation-delay: 0.4s;
+      }
+
+      #loading-mask span:nth-child(6) {
+        animation-delay: 0.5s;
+      }
+
+      @keyframes scale {
+        0%,
+        40% {
+          transform: scale(1);
+          -webkit-transform: scale(1);
+        }
+
+        20% {
+          transform: scale(1.2);
+          -webkit-transform: scale(1.2);
+        }
+      }
+      .logo_title_pr {
+        position: absolute;
+        top: -30px;
+        display: none;
+      }</style><script>var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?9794c9b6cd8b733e66aafce404aafde8";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();</script><script>var interval = null
+        setTimeout(()=>{
+          interval = setInterval(function star() {
+            var getDocument = document.getElementById('advisory')
+            if(getDocument){
+              (function(a,h,c,b,f,g){a["UdeskApiObject"]=f;a[f]=a[f]||function(){(a[f].d=a[f].d||[]).push(arguments)};g=h.createElement(c);
+              g.async=1;g.charset="utf-8";
+              g.src=b;c=h.getElementsByTagName(c)[0];c.parentNode.insertBefore(g,c)})
+              (window,document,"script","https://assets-cli.s2.udesk.cn/im_client/js/udeskApi.js","ud");
+              ud({
+                  "code": "17fi8j8k",
+                  "link": "https://1771892.s2.udesk.cn/im_client/?web_plugin_id=27083",
+                  "isInvite": false,
+                  "mode": "inner", 
+                  "selector": "#advisory, .Udesk_advisory, .corner-contact",
+                  "color": "#307AE8",
+                  "pos_flag": "srb",
+                  "language": "zh-cn",
+                  "targetSelector": "#advisory"
+              })
+              clearInterval(interval)
+            }
+          } , 700) 
+        }, 1000)</script><script type=text/javascript>window._agl = window._agl || [];
+      (function () {
+          _agl.push(
+              ['production', '_f7L2XwGXjyszb4d1e2oxPybgD']
+          );
+          (function () {
+              var agl = document.createElement('script');
+              agl.type = 'text/javascript';
+              agl.async = true;
+              agl.src = 'https://fxgate.baidu.com/angelia/fcagl.js?production=_f7L2XwGXjyszb4d1e2oxPybgD';
+              var s = document.getElementsByTagName('script')[0];
+              s.parentNode.insertBefore(agl, s);
+          })();
+      })();</script><link href=/static/css/app.2050d644a73aeea229e24f0e711763a3.css rel=stylesheet></head><body><img class=logo_title_pr src=/static/img/paixintuku.jpg alt=logo><div id=app></div><div id=replacer></div><script>if (document.referrer.indexOf('tantupix') != -1) {
+        document.body.innerHTML = '';
+      }
+      (function() {
+        var replacer = document.getElementById('replacer');
+        replacer.innerHTML =
+          '<div id="loading-mask"><span>P</span><span>A</span><span>I</span><span>X</span><span>I</span><span>N</span></div>';
+        var replaceloop = setInterval(function() {
+          if (document.getElementById('init')) {
+            replacer.innerHTML = '';
+            clearInterval(replaceloop);
+            replaceloop = null;
+          }
+        }, 50);
+      })();</script><script type=text/javascript>(function(w, n) {
+        w[n] =
+          typeof w[n] === 'function'
+            ? w[n]
+            : function() {
+                (w[n].c = w[n].c || []).push(arguments);
+              };
+        window._qha('send', {
+          et: 31,
+          order: [
+            {
+              id: ''
+            }
+          ]
+        });
+      })(window, '_qha');</script><script src=/static/js/vue1.min.js></script><script type=text/javascript src=/static/js/manifest.f6823bb77626b86616a6.js></script><script type=text/javascript src=/static/js/vendor.6c39e814fba16399b616.js></script><script type=text/javascript src=/static/js/app.ab0bca41cd045f168f00.js></script></body><script type=text/javascript src=/static/js/anime.min.js defer=defer></script><script type=text/javascript src=//s.union.360.cn/169722.js async defer=defer></script><script>var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement('script');
+    hm.src = 'https://hm.baidu.com/hm.js?3606e9a6bebc5e4a466e2e6c8c800a3f';
+    var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(hm, s);
+  })();</script></html>
